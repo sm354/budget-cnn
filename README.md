@@ -29,4 +29,4 @@ python train.py --algo yes --num_epochs 100 --dataset cifar10 --exp_name R18_nor
 ```
 
 ### Acknowledgement
-This work was done during May 2020 - July 2020 as part of a research internship under the guidance of [Prof. Ernest Chong](https://people.sutd.edu.sg/~ernest_chong/) at Singpore University of Technology & Design (SUTD).
+This work was done during a research internship (May - July, 2020) under the guidance of [Prof. Ernest Chong](https://people.sutd.edu.sg/~ernest_chong/) at Singpore University of Technology & Design (SUTD).
